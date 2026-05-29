@@ -29,7 +29,7 @@ Este projeto permite cadastrar matérias, criar tarefas de estudo, listar tarefa
 Clone o repositório:
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/rfactt/python-study-manager.git
 ```
 
 Entre na pasta:
