@@ -1,3 +1,5 @@
+![Preview do Study Manager](assets/readme/study-manager-preview.png)
+
 # Python Study Manager
 
 Gerenciador de estudos via terminal feito em Python com SQLite.
